@@ -21,7 +21,7 @@ A simple and smart To-Do List web application built using HTML, CSS, and JavaScr
 * HTML
 * CSS
 * JavaScript
-* LocalStorage API
+
 
 ---
 
