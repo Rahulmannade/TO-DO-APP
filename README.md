@@ -25,12 +25,6 @@ A simple and smart To-Do List web application built using HTML, CSS, and JavaScr
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project here)
-
----
-
 ## 🌐 Live Demo
 
 (Add your deployed link here)
