@@ -76,7 +76,6 @@ git clone https://github.com/your-username/todo-app.git
 
 ## 👨‍💻 Author
 
-Your Name
-(Add your GitHub profile link)
+https://github.com/Rahulmannade/
 
 ---
