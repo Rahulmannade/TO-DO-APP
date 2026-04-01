@@ -27,7 +27,7 @@ A simple and smart To-Do List web application built using HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-(Add your deployed link here)
+https://rahulmannade.github.io/TO-DO-APP/
 
 ---
 
@@ -47,7 +47,7 @@ A simple and smart To-Do List web application built using HTML, CSS, and JavaScr
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Rahulmannade/TO-DO-APP.git
 ```
 
 2. Open the folder
